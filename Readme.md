@@ -9,8 +9,12 @@ talib dll工程文件来自Github  https://github.com/sumorf/talib
 
 
 
+![enter image description here](https://github.com/UserWenxin/talib4Pascal/blob/master/images/Demo.jpg?raw=true)
 
 
+Demo code:  计算SMA为例子； 
+
+    Z_Ma(0,99,@CloseList.RawData[0],5,TA_MAType.TA_MAType_SMA{0},outbegidx,outnbelement,@MaList.RawData[0]);
 
 
 2019.11 by 静夜思
