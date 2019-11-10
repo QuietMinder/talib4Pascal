@@ -16,4 +16,4 @@ Demo code:  计算SMA为例子；
 talib dll工程文件来自Github  https://github.com/sumorf/talib 
 
 
-2019.11 by 静夜思
+2019.11
