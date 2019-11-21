@@ -1,1 +1,3 @@
 *.c linguist-language=pascal
+*.cpp linguist-language=pascal
+*.h linguist-language=pascal
